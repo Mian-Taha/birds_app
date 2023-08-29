@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403502969174",
+    "project_id": "birds-planet-app-5f44d",
+    "storage_bucket": "birds-planet-app-5f44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403502969174:android:a2f1f36d79c952d14f26f7",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403502969174-q9jsmtiid280iqhhrhahogp5b0tlk1p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg8d9X6kIj1Z7qEPj-OKKML5TQASQkjAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403502969174-q9jsmtiid280iqhhrhahogp5b0tlk1p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
